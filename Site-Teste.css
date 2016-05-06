@@ -1,6 +1,10 @@
 h1 {
 	color: red;
 	align-content: center;
+	text-align: center;	
+}
+
+p {
 	text-align: center;
 	
 }
